@@ -60,7 +60,7 @@
     "rimraf": "2.x.x",
     "sanitizer": "0.x.x",
     "semver": "4.x.x",
-    "send": "0.12.2",
+    "send": "0.19.0",
     "strike-api": "0.2.0",
     "tar": "1.x.x",
     "temp": "0.x.x",
